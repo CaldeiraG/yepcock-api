@@ -9,5 +9,5 @@ Requirements:
 - [Node.js](https://nodejs.org)
 - [tmi.js](https://github.com/tmijs/tmi.js)
 
-Install dependencies: `npm i`
-Run! `node index.js`
+- Install dependencies: `npm i`
+- Run! `node index.js`
